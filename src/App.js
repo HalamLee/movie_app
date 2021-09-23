@@ -12,8 +12,7 @@ const movieILike = [
   {
     id: 2,
     name: "FROZEN",
-    image:
-      "https://lh3.googleusercontent.com/proxy/a5bLT9wPzdUJmbE-WHP6tlavy1bs8-iv4a7oEU93autHXfcmbxkfPWE0V4h953Oy7KivEY-9KfeidLtY5CemyFLbW9ZoeQUwXTHFGkUxIPKn",
+    image: "https://t1.daumcdn.net/cfile/tistory/2457E13D52F1C3ED36?original",
     rating: 5,
   },
   {
