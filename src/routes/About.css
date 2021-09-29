@@ -1,0 +1,45 @@
+.about-wrapper {
+  width: 100%;
+  height: 100vh;
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-container {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 30px 60px -12px rgba(50, 50, 93, 0.25);
+  border-radius: 30px;
+  background-color: black;
+}
+
+.profile {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.info {
+  width: 100%;
+  height: 100px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.info h1 {
+  color: white;
+}
+
+.notion {
+  width: 40px;
+  margin-left: 20px;
+}
